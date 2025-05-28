@@ -1,0 +1,24 @@
+{
+  "name": "prueba-build",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test-watch": "jest -watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/delfi1302/prueba-build.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/delfi1302/prueba-build/issues"
+  },
+  "homepage": "https://github.com/delfi1302/prueba-build#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
